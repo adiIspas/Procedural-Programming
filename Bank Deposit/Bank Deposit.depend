@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1456582458 source:f:\github\procedural-programming\bank deposit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
