@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1460489481 source:f:\github\procedural-programming\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
